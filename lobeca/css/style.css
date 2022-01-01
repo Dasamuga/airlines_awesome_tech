@@ -1845,7 +1845,7 @@ float: left;
     z-index: 2;
 }
 .banner_area.banner_one{
-    background:url(../img/banner/banner.jpg) no-repeat scroll center center;
+    background:url(../img/banner/b3.jpg) no-repeat scroll center center;
     background-size: cover;
 }
 .banner_area:before {
@@ -1904,7 +1904,7 @@ float: left;
     text-decoration: none;
 }
 .banner_area_plane {
-    background: url(../img/banner/banner-bg.jpg) no-repeat scroll center center;
+    background: url(../img/banner/b3.jpg) no-repeat scroll center center;
     background-size: auto auto;
     background-size: cover;
     min-height: 235px;
